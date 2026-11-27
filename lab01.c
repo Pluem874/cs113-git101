@@ -1,4 +1,5 @@
 #include <stdio.h>
+char text[] = "Hello Git101";
 int main() {
-    printf("Hello World");
+    printf("%s/n", text);
 }
